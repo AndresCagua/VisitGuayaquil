@@ -1,13 +1,13 @@
 
 @font-face{
     src: url("evilgeniusbb_bld.ttf");
-    font-family: Shonen;
+    font-family: Evil;
 }
 
 body {
     margin: 0px;
     text-align: center;
-    font-family: Shonen;
+    font-family: Evil;
 }
 
 img {
